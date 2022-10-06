@@ -8,7 +8,7 @@
 #include <array>
 #include <sys/ioctl.h>
 #include <filesystem>
-
+//mycommentRYBAKOV
 #define cimg_display 0
 #include "CImg.h"
 
